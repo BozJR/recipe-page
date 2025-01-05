@@ -1,6 +1,6 @@
-# Frontend Mentor - Recipe page solution
+# Recipe page solution
 
-This is My solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is My solution to creating a simple Recipe page layout. 
 
 ## Table of contents
 
@@ -15,8 +15,6 @@ This is My solution to the [Recipe page challenge on Frontend Mentor](https://ww
 ## Overview
 
 To build out this recipe page and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge.
 
 
 ### Screenshot
@@ -42,5 +40,5 @@ After working on this i now know i need to brush up my skills on @media queries 
 
 ## Author
 
-- Frontend Mentor - [@BozJR](https://www.frontendmentor.io/profile/BozJR)
+- GitHub Profile - https://github.com/BozJR?tab=repositories
 
